@@ -1,0 +1,27 @@
+Intructions-
+
+**** The username for admin account is "Karthik", and password is "W1nallday!". *****
+**** The username for non-admin account is "Ganesh", and password is "1dayUmay!". ****
+
+This is based on what I inserted into the userapp table on the Group4 Database, but you can add other users too using the below insert statements- 
+
+• If you want to add an admin, use "admin" for the role. Example- insert into userapp(username, userpassword,userrole) values ("Karthik",SHA1("W1nallday!"),"admin");
+
+• For non admins use "other" instead of "admin" for the role. Example- insert into userapp(username, userpassword,userrole) values ("Ganesh",SHA1("1dayUmay!"),"other");
+
+
+Additional Notes-
+
+• The SQL script for creating the tables, triggers, and userapp tables is - Project2DDL.sql
+
+• The SQL script for loading the data into the tables- Project_2_import.sql
+
+• The JSP code is in the folder- JSP Code. It contains- login.jsp, query.jsp, and result.jsp.
+
+• The physical design is in the physicaldesign.sql
+
+• The stored procedures used by the JSP code is in Project_stored_procedures. While creating the procedures, run each procedure one by one.
+
+• The query performace/optimization times are in- perf.pdf
+
+• All the worklogs are in the folder- Worklogs.

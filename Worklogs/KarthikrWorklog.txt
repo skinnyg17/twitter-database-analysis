@@ -1,0 +1,36 @@
+Karthik:
+
+Project 1:
+Week of March 8, 2019-
+• Team received the project description and the data
+• We met twice, in person, and on hangouts.
+• Team meeting (3 hour each day) and individual tasks assigned
+• We worked on everything together- Planned out the ER diagram based on requirements.
+• Met with TA twice, and checked with them/clarified questions.
+• Created ER Diagram using Google Draw.io
+• Turned it in.
+
+Project 2:
+Week of April. 15, 2019-
+• We met three times- worked on it for three days, roughly 4 hours each day.
+• We worked on everything together on this one too.
+• Each member did two queries- in total we did 1,2,3, and 15.
+• We helped eachother out to verifying eachother's work.
+• Met with TA twice, and checked with them/clarified questions.
+• Turned it in.
+
+Project3:
+Week of April. 22, 2019
+• We met up twice and started reading/understanding the requirements.
+• We started dividing the work into halfs.
+• We Went to office hours to get help, and understand some of the requirements
+• Split up tasks into jsp and sql.
+• I started working on jsp.
+Week of April. 29, 2019
+• We met up in person 7 times this week, and worked on it for atleast 6-7 hours everyday.
+• We worked on everything together.
+• Split up tasks into jsp and sql.
+• Karthik's Tasks- Writing JSP code(login.jsp, query.jsp, and result.jsp) + insert, delete   queries, login authentication, userapp table/query.
+• Met with TA, and Professor multiple times to clarify questions.
+• Helped eachother by testing eachothers code.
+• Turned it in.
